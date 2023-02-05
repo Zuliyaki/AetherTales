@@ -91,6 +91,7 @@
 	"TargetPlatforms": [
 		"WindowsNoEditor",
 		"MacNoEditor",
-		"Windows"
+		"Windows",
+		"Android"
 	]
 }
